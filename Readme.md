@@ -3,7 +3,7 @@
 ### What I learnt :question:
     - Full landing page designing.
     - Followed proper way of placing html elements and specifying required classes.
-    - Image and background-image handling in single element.
+    - Image and background-image handling inside single html element.
     - Navigation bar creation.
 ### :hourglass_flowing_sand: Time taken to complete!
     - 3.5 hours
